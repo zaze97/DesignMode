@@ -1,5 +1,6 @@
 ﻿using System;
 using DesignMode.Creational.FactoryPattern;
+using DesignMode.Creational.StrategyPattern;
 
 namespace DesignMode
 {
@@ -13,7 +14,9 @@ namespace DesignMode
             factory._numberA = 10;
             factory._numberB = 20;
             Console.WriteLine( factory.GetResult());
-
+            Console.WriteLine( "-----------------------策略模式--------------------------------");
+            CashContext cashContext=new CashContext("打8折");
+            Console.WriteLine( cashContext.GetResult(1000));
         }
     }
 }
