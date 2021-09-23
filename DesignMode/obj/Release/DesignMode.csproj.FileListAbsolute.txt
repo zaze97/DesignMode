@@ -1,0 +1,5 @@
+D:\project\Unity\git\DesignMode\DesignMode\bin\Release\DesignMode.exe
+D:\project\Unity\git\DesignMode\DesignMode\bin\Release\DesignMode.pdb
+D:\project\Unity\git\DesignMode\DesignMode\obj\Release\DesignMode.csprojResolveAssemblyReference.cache
+D:\project\Unity\git\DesignMode\DesignMode\obj\Release\DesignMode.exe
+D:\project\Unity\git\DesignMode\DesignMode\obj\Release\DesignMode.pdb
