@@ -1,0 +1,6 @@
+D:\Project\zazeProject\DesignMode\DesignMode\bin\Debug\DesignMode.exe
+D:\Project\zazeProject\DesignMode\DesignMode\bin\Debug\DesignMode.pdb
+D:\Project\zazeProject\DesignMode\DesignMode\obj\Debug\DesignMode.csprojAssemblyReference.cache
+D:\Project\zazeProject\DesignMode\DesignMode\obj\Debug\DesignMode.csproj.CoreCompileInputs.cache
+D:\Project\zazeProject\DesignMode\DesignMode\obj\Debug\DesignMode.exe
+D:\Project\zazeProject\DesignMode\DesignMode\obj\Debug\DesignMode.pdb
