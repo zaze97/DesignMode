@@ -4,3 +4,10 @@ D:\Project\zazeProject\DesignMode\DesignMode\obj\Debug\DesignMode.csprojAssembly
 D:\Project\zazeProject\DesignMode\DesignMode\obj\Debug\DesignMode.csproj.CoreCompileInputs.cache
 D:\Project\zazeProject\DesignMode\DesignMode\obj\Debug\DesignMode.exe
 D:\Project\zazeProject\DesignMode\DesignMode\obj\Debug\DesignMode.pdb
+D:\project\Unity\git\DesignMode\DesignMode\bin\Debug\DesignMode.exe
+D:\project\Unity\git\DesignMode\DesignMode\bin\Debug\DesignMode.pdb
+D:\project\Unity\git\DesignMode\DesignMode\obj\Debug\DesignMode.csproj.AssemblyReference.cache
+D:\project\Unity\git\DesignMode\DesignMode\obj\Debug\DesignMode.csproj.SuggestedBindingRedirects.cache
+D:\project\Unity\git\DesignMode\DesignMode\obj\Debug\DesignMode.csproj.CoreCompileInputs.cache
+D:\project\Unity\git\DesignMode\DesignMode\obj\Debug\DesignMode.exe
+D:\project\Unity\git\DesignMode\DesignMode\obj\Debug\DesignMode.pdb

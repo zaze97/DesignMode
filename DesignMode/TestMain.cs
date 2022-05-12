@@ -33,6 +33,17 @@ namespace DesignMode
             proxy.GiveWater();
             proxy.GiveEat();
             proxy.GivePlay();
+            Console.WriteLine( "-----------------------适配器模式--------------------------------");
+            Player a = new Forwaeds("张三");
+            a.Attack();
+            a.Defense();
+            Player b = new Center("李四");
+            b.Attack();
+            b.Defense();
+            Player c = new Translator("王五");
+            c.Attack();
+            c.Defense();
+
         }
     }
 }

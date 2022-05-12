@@ -42,6 +42,8 @@
     <Compile Include="Creational\FactoryPattern\Factory.cs" />
     <Compile Include="Creational\ProxyPattern\IGiveGift.cs" />
     <Compile Include="Creational\StrategyPattern\Strategy.cs" />
+    <Compile Include="Creational\适配器模式\Player.cs" />
+    <Compile Include="Creational\适配器模式\Translator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TestMain.cs" />
   </ItemGroup>
